@@ -1,0 +1,2 @@
+$ touch contact_information.txt
+$ git status
